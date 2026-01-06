@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "eu-funds-finetuning": {
+      "command": "python",
+      "args": [
+        "/absolute/path/to/anthropic-cookbook/finetuning/mcp/server.py"
+      ],
+      "env": {
+        "ANTHROPIC_API_KEY": "your-api-key-here"
+      }
+    }
+  }
+}

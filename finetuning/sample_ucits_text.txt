@@ -1,0 +1,172 @@
+UCITS DIRECTIVE - SAMPLE REGULATORY TEXT
+(For demonstration purposes - excerpt from Directive 2009/65/EC)
+
+CHAPTER I - GENERAL PROVISIONS
+
+Article 1 - Scope
+
+1. This Directive shall apply to undertakings:
+   (a) the sole object of which is the collective investment in transferable securities and/or in other liquid financial assets referred to in Article 50(1) of capital raised from the public and which operate on the principle of risk-spreading; and
+   (b) units of which are, at the request of holders, repurchased or redeemed, directly or indirectly, out of those undertakings' assets. Action taken by a UCITS to ensure that the stock exchange value of its units does not significantly vary from their net asset value shall be regarded as equivalent to such repurchase or redemption.
+
+2. Such undertakings may be constituted according to the law of contract (as unit trusts managed by management companies), trust law (as unit trusts), or under statute (as investment companies).
+
+3. For the purposes of this Directive, these undertakings are referred to as UCITS.
+
+Article 2 - Definitions
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(a) 'home Member State' means:
+    (i) if the UCITS is constituted under the law of contract or trust law, the Member State in which the UCITS has its registered office;
+    (ii) if the UCITS is constituted under statute, the Member State where it has its registered office or, if under its national law it does not have a registered office, the Member State where its head office is situated;
+
+(b) 'host Member State' means the Member State, other than the home Member State, in which a UCITS markets its units;
+
+(c) 'competent authorities' means the authorities designated by each Member State in accordance with Article 97;
+
+(d) 'management company' means a company, the regular business of which is the management of UCITS in the form of unit trusts or of investment companies (collective portfolio management of UCITS);
+
+(e) 'depositary' means an institution entrusted by a UCITS with the safekeeping of assets and the oversight duties as laid down in Article 22(3) and (4);
+
+CHAPTER V - OBLIGATIONS CONCERNING THE INVESTMENT POLICIES OF UCITS
+
+Section 1 - General Provisions
+
+Article 50 - Eligible assets
+
+1. Investments of a UCITS shall consist solely of one or more of the following:
+
+(a) transferable securities and money market instruments admitted to or dealt in on a regulated market;
+
+(b) transferable securities and money market instruments dealt in on another market in a Member State which is regulated, operates regularly and is recognised and open to the public;
+
+(c) transferable securities and money market instruments admitted to official listing on a stock exchange in a third country or dealt in on another regulated market in a third country which operates regularly and is recognised and open to the public;
+
+(d) recently issued transferable securities and money market instruments, provided that:
+    - the terms of issue include an undertaking that application will be made for admission to official listing on a stock exchange or to another regulated market which operates regularly, is recognised and open to the public,
+    - such admission is secured within one year of issue;
+
+(e) units of UCITS authorised according to this Directive and/or other undertakings for collective investment (UCIs);
+
+(f) deposits with credit institutions which are repayable on demand or have the right to be withdrawn, and maturing in no more than 12 months;
+
+(g) financial derivative instruments.
+
+Article 51 - Investment restrictions
+
+A UCITS shall not:
+
+(a) invest more than 10% of its assets in transferable securities or money market instruments other than those referred to in Article 50(1);
+
+(b) acquire precious metals or certificates representing them.
+
+Article 52 - Risk-spreading rules
+
+1. A UCITS shall invest no more than 5% of its assets in transferable securities or money market instruments issued by the same body.
+
+2. A UCITS shall invest no more than 20% of its assets in deposits made with the same body.
+
+3. The risk exposure to a counterparty of the UCITS in an OTC derivative transaction shall not exceed 10% of its assets when the counterparty is a credit institution referred to in Article 50(f) or 5% of its assets in other cases.
+
+4. The total value of the transferable securities and money market instruments held by the UCITS in the issuing bodies in each of which it invests more than 5% of its assets shall not exceed 40% of the value of its assets. This limitation shall not apply to deposits made with financial institutions subject to prudential supervision and to OTC derivative transactions with such institutions.
+
+5. Notwithstanding the individual limits laid down in paragraphs 1, 2 and 3, a UCITS shall not combine, where this would lead to investment of more than 20% of its assets in a single body, any of the following:
+   (a) investments in transferable securities or money market instruments issued by that body;
+   (b) deposits made with that body; and/or
+   (c) exposures arising from OTC derivative transactions undertaken with that body.
+
+6. The limit of 5% laid down in paragraph 1 is raised to 10% in the case of bonds issued by a credit institution which has its registered office in a Member State and is subject by law to special public supervision designed to protect bondholders.
+
+7. By way of derogation from paragraphs 1, 2, 3, 4, 5 and 6, Member States may authorise UCITS to invest up to 100% of their assets in different transferable securities and money market instruments issued or guaranteed by a Member State, one or more of its local authorities, a third country or public international bodies of which one or more Member States are members, provided that:
+   - such securities are at least six different issues,
+   - securities from any one issue do not account for more than 30% of the total amount.
+
+Article 53 - Limitations on holdings
+
+1. A UCITS shall not acquire shares carrying voting rights which would enable it to exercise significant influence over the management of an issuing body.
+
+2. A UCITS may acquire no more than:
+   (a) 10% of the non-voting shares of any single issuing body;
+   (b) 10% of the debt securities of any single issuing body;
+   (c) 25% of the units of any single UCITS and/or other UCI within the meaning of Article 50(1)(e);
+   (d) 10% of the money market instruments of any single issuing body.
+
+CHAPTER VI - OBLIGATIONS CONCERNING THE STRUCTURE OF UCITS
+
+Article 22 - Depositary
+
+1. Every UCITS shall have a single depositary which shall be entrusted with the safekeeping of the UCITS' assets.
+
+2. The depositary must be established in the same Member State as the UCITS.
+
+3. The depositary shall:
+   (a) ensure that the sale, issue, repurchase, redemption and cancellation of units effected on behalf of the UCITS or by the management company are carried out in accordance with the applicable national law and the UCITS rules or instruments of incorporation;
+
+   (b) ensure that the value of units is calculated in accordance with the applicable national law and the UCITS rules or instruments of incorporation;
+
+   (c) carry out the instructions of the management company or the investment company, unless they conflict with the applicable national law or the UCITS rules or instruments of incorporation;
+
+   (d) ensure that in transactions involving the UCITS' assets, the consideration is remitted to the UCITS within the usual time limits;
+
+   (e) ensure that the UCITS' income is applied in accordance with the applicable national law and the UCITS rules or instruments of incorporation.
+
+4. The depositary shall also:
+   (a) hold in custody all financial instruments that may be registered or held in a financial instruments account opened in the depositary's books and all financial instruments that can be physically delivered to the depositary;
+
+   (b) for other assets, verify the ownership by the UCITS or the management company acting on behalf of the UCITS of such assets and maintain a record of those assets.
+
+5. The depositary shall be liable to the UCITS or to the unitholders for the loss by the depositary or a third party to whom the custody of financial instruments held in custody has been delegated.
+
+CHAPTER VIII - OBLIGATIONS CONCERNING INFORMATION TO BE PROVIDED TO INVESTORS
+
+Article 68 - Key investor information
+
+1. Member States shall require that every UCITS draws up a short document containing key investor information (hereinafter referred to as the 'key investor information document').
+
+2. The key investor information document shall provide information, in accordance with Article 78, about the essential elements of the relevant UCITS, including the appropriate information about risks and reward profiles, costs, and the past performance of the UCITS where available.
+
+Article 69 - Content and form
+
+1. The key investor information document shall include the following information:
+
+(a) identification of the UCITS;
+(b) a short description of its investment objectives and investment policy;
+(c) a presentation of past performance or, where relevant, performance scenarios;
+(d) costs and associated charges;
+(e) the risk/reward profile of the investment, including appropriate guidance and warnings in respect of the risks associated with investments in the relevant UCITS.
+
+2. The key investor information document shall be a stand-alone document, clearly separated from marketing material. It shall not contain cross-references to marketing material.
+
+3. The key investor information document shall be written in a succinct way and in non-technical language. It shall be presented in a common format allowing for comparison and be accurate, fair, clear and not misleading.
+
+4. The title of the key investor information document shall contain the words 'Key Investor Information' or 'Key Information'.
+
+5. The key investor information document shall not exceed two sides of A4-sized paper when printed.
+
+Article 78 - Prior disclosure to investors
+
+1. A UCITS shall publish:
+   (a) a prospectus;
+   (b) the key investor information document.
+
+2. The information referred to in paragraph 1 shall be offered to subscribers free of charge before the conclusion of the contract.
+
+3. In addition to the information referred to in paragraph 1, a UCITS shall publish periodical reports as referred to in Article 68.
+
+Article 79 - Simplified prospectus
+
+The prospectus shall contain information necessary for investors to be able to make an informed judgement of the investment proposed to them and, in particular, of the risks attached thereto.
+
+The prospectus shall include at least the following information:
+
+(a) the investment objectives of the UCITS and its investment and borrowing powers;
+(b) the historical performance of the UCITS (where available);
+(c) the profile of the typical investor for whom the UCITS is designed;
+(d) the procedure and conditions for the issue and sale of units;
+(e) the procedure and conditions for the repurchase or redemption of units;
+(f) a description of the rules for the determination and application of income;
+(g) a description of the UCITS' investment policy and restrictions;
+(h) a brief indication of any performance fee;
+(i) the total expense ratio;
+(j) the identity of the depositary, the investment adviser, and the auditor.
